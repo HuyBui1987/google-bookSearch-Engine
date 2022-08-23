@@ -64,7 +64,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 
 ## Demo
-[Demo video](https://ocean-fun-oz.herokuapp.com/)
+[Demo video](https://drive.google.com/file/d/1ST2TuDKCIMWu7Vra3f54viT1jWqaRkyA/view)
 
 ## License
 
